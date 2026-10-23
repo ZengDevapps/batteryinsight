@@ -8,7 +8,7 @@
 
 **Battery Insight** reads directly from `/sys/class/power_supply` to display accurate, real-time information about your battery — no external dependency, fully offline, privacy-friendly.
 
-![Battery Insight screenshot](docs/screenshot-light.png)
+![Battery Insight screenshot](/screenshot-light.png)
 
 ---
 
@@ -31,7 +31,7 @@
 
 | Light mode | Dark mode |
 |:---:|:---:|
-| ![Light](docs/screenshot-light.png) |
+| ![Light](/screenshot-light.png) |
 
 ---
 
