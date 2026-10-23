@@ -27,20 +27,15 @@
 
 ---
 
-## 📸 Screenshots
-
-| Light mode | Dark mode |
-|:---:|:---:|
-| ![Light](/screenshot-light.png) |
-
----
-
 ## 🚀 Installation
 
 ### From the Deepin Store
 
 *Coming soon.*
 
+### From GitHub release
+
+https://github.com/ZengDevapps/batteryinsight/releases
 
 **Dependencies:**
 
