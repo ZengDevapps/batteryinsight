@@ -31,11 +31,7 @@
 
 | Light mode | Dark mode |
 |:---:|:---:|
-| ![Light](docs/screenshot-light.png) | ![Dark](docs/screenshot-dark.png) |
-
-| Multi-battery (ThinkPad) | No battery (desktop) |
-|:---:|:---:|
-| ![Dual](docs/screenshot-dual.png) | ![No battery](docs/screenshot-none.png) |
+| ![Light](docs/screenshot-light.png) |
 
 ---
 
@@ -59,3 +55,5 @@ On Debian / Ubuntu / Deepin:
 ```bash
 sudo apt install python3 python3-gi python3-gi-cairo \
                  gir1.2-gtk-3.0 gir1.2-pango-1.0 gir1.2-gdkpixbuf-2.0
+
+<p align="center"> Made with ❤️ for Deepin users </p> ```
