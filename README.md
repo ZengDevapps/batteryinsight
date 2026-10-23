@@ -50,10 +50,23 @@
 - Cairo for Python (`python3-gi-cairo`)
 - Pango
 
-On Debian / Ubuntu / Deepin:
+On Deepin:
 
 ```bash
 sudo apt install python3 python3-gi python3-gi-cairo \
-                 gir1.2-gtk-3.0 gir1.2-pango-1.0 gir1.2-gdkpixbuf-2.0
+                 gir1.2-gtk-3.0 gir1.2-pango-1.0 gir1.2-gdkpixbuf-2.0```
 
-<p align="center"> Made with ❤️ for Deepin users </p> ```
+🤝 Contributing
+Contributions are welcome! Here's how to help:
+
+🐛 Report bugs — open an issue
+
+🌍 Translate
+
+🎨 Suggest designs — open an issue with the design label
+
+
+Please open an issue before starting major changes, so we can discuss the approach.
+
+
+Made with ❤️ for Deepin users
